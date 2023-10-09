@@ -1,0 +1,15 @@
+.container{
+    background-color: white;
+    margin-left: 200px;
+    margin-right: 200px;
+    
+}
+.blog-container{
+    padding: 30px 30px;
+}
+img{
+    width: 100%;
+}
+.p{
+    font-size: 35px;
+}
